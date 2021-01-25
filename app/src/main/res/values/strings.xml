@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WakeUpMiloMoje</string>
+    <string-array name="ringtones">
+        <item>Kolindica</item>
+        <item>Skoro</item>
+        <item>Mamic</item>
+        <item>Karamarko</item>
+        </string-array>
+</resources>
