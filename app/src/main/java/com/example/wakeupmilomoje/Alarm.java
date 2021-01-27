@@ -7,7 +7,7 @@ import java.sql.Time;
 
 public class Alarm {
     String title;
-    int hour, minute;
+    String hour, minute;
     Date date;
 
 

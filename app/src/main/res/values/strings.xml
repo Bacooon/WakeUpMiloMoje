@@ -6,4 +6,5 @@
         <item>Mamic</item>
         <item>Karamarko</item>
         </string-array>
+    <string name="timepicker">Time</string>
 </resources>
